@@ -1,6 +1,6 @@
 # Solución actividad 07.
 
-## Clase Concesionaria.
+## Clase Concesionaria (main)
 
 ```java
 
@@ -8,8 +8,8 @@ package concesionaria;
 
 
 public class Concesionaria {
-    float pi = 3;
-    int num = (int)pi;
+    float pi = 3;//No va pi para este ejercicio
+    int num = (int)pi;//No num pi para este ejercicio
     public static void main(String[] args) {
         
        
